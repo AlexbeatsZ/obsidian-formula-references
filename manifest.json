@@ -1,0 +1,9 @@
+{
+  "id": "stem-formula-references",
+  "name": "公式编号引用",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.7",
+  "description": "引用带 \\tag{章-序号} 的公式，并把严格格式的正文公式编号增强为可跳转蓝链。",
+  "author": "Meta",
+  "isDesktopOnly": false
+}
